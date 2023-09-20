@@ -1,4 +1,7 @@
-# Convertidor
+# Convertidor Moneda
+
+This project aims to perform value conversions among three currency types: United States Dollars (USD), Euros (EUR), and British Pounds (LIBRA).
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.2.
 
